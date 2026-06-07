@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publicazioni/
-title: Publicazioni
+permalink: /pubblicazioni/
+title: Pubblicazioni
 description: Articoli pubblicati su riviste peer-reviewed
 nav: true
 nav_order: 3
