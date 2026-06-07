@@ -1,8 +1,8 @@
 ---
 layout: about
-title: profilo
+title: Profilo
 permalink: /
-subtitle: Dott.ssa in Scienza dei Materiali e Ingegneria
+subtitle: Dott.ssa in Scienza e Ingegneria dei Materiali
 
 profile:
   align: right
