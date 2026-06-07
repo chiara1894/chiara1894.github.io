@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Dott.ssa in Scienza dei Materiali e Ingegneria
 
 profile:
   align: right
