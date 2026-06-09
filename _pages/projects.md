@@ -1,8 +1,8 @@
 ---
 layout: page
-title: esperienze
-permalink: /esperienze/
-description: A growing collection of your cool projects.
+title: Esperienze
+permalink: /Esperienze/
+description: Progetti di ricerca e competenze acquisite.
 nav: true
 nav_order: 2
 display_categories: [progetti, competenze]
