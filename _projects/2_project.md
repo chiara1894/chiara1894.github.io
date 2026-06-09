@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Tesi Magistrale
+description: Nanobipiramidi d'oro per applicazioni SERS
+img: assets/img/BPs.png
 importance: 2
 category: work
 giscus_comments: true
