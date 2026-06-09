@@ -4,7 +4,7 @@ title: Tesi Magistrale
 description: Nanobipiramidi d'oro per applicazioni SERS
 img: assets/img/BPs.png
 importance: 2
-category: work
+category: progetti
 giscus_comments: true
 ---
 
