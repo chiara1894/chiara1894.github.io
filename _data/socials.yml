@@ -8,11 +8,11 @@ email: chiara1894@gmail.com # your email address
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+custom_social_1: # can be any name here other than the ones already defined in the jekyll-socials plugin
   logo: https://cdn-icons-png.flaticon.com/512/25/25231.png
   title: GitHub
   url: https://github.com/chiara1894
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin  
+custom_social_2: # can be any name here other than the ones already defined in the jekyll-socials plugin  
   logo: https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png
   title: LinkedIn
   url: www.linkedin.com/in/chiara-romeo94
