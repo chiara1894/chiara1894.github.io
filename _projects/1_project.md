@@ -2,7 +2,7 @@
 layout: page
 title: Dottorato
 description: Nanocompositi ibridi per il packaging in elettronica
-img: assets/img/12.jpg
+img: assets/img/NCs_flex.png
 importance: 1
 category: progetti
 related_publications: true
