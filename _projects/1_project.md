@@ -10,7 +10,7 @@ related_publications: true
 
 La mia attività di ricerca si è concentrata sullo sviluppo di nanocompositi ibridi inorganici/organici con una maggiore conducibilità termica, con l'obiettivo finale di progettare materiali per la gestione termica elettricamente isolanti e flessibili.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbricazione e caratterizzazione dei compositi. In particolare, la sintesi sol-gel di polimeri organosiliconici (es: polisilsesquiossani a scala, LPSQ); la funzionalizzazione superficiale di nanoparticelle di allumina (Al2O3); e la fabbricazione di nanocompositi LPSQ/Al2O3 tramite solvent casting e fotopolimerizzazione con raggi UV:
 
     ---
     layout: page
