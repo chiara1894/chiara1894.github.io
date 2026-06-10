@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dottorato
-description: Nanocompositi ibridi per il packaging in elettronica
+title: Nanocompositi ibridi per il packaging in elettronica
+description: Dottorato di ricerca presso Università di Trento
 img: assets/img/NCs_flex.png
 importance: 1
 category: progetti
