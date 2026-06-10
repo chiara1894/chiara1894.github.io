@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tesi Magistrale
-description: Nanobipiramidi d'oro per applicazioni SERS
+title: Nanobipiramidi d'oro per applicazioni SERS
+description: Ricerca svolta in collaborazione con NSC lab (Sapienza Università di Roma) e Nanomaterials Research Group (Università di Verona) 
 img: assets/img/BPs_scaled.png
 importance: 2
 category: progetti
