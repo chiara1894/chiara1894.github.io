@@ -10,7 +10,6 @@ related_publications: true
 
 La mia attività di ricerca si è concentrata sullo sviluppo di nanocompositi ibridi inorganici/organici con una maggiore conducibilità termica (TC), con l'obiettivo finale di progettare materiali per la gestione termica elettricamente isolanti e flessibili. In questo contesto, mi sono occupata dello sviluppo di materiali di interfaccia termica (Thermal Interface Materials, TIM), utilizzati per migliorare il trasferimento di calore tra componenti elettronici e sistemi di dissipazione, riducendo la resistenza termica associata ai microscopici spazi d’aria presenti tra le superfici di contatto.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Graphical abstract.png" title="Infografica" class="img-fluid rounded z-depth-1" %}
@@ -35,6 +34,9 @@ Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbrica
 </div>
 <div class="caption">
     Sintesi sol-gel (sinistra); fotopolimerizzazione di nanocompositi (centro); film ibrido inorganico/oraganico (destra).
+
+Ho studiato le relazioni tra struttura e proprietà dei materiali attraverso un’ampia attività di caratterizzazione, utilizzando tecniche spettroscopiche, microscopiche, termiche e strutturali. Particolare attenzione è stata dedicata alle interazioni chimiche all’interfaccia tra le diverse componenti dei materiali compositi, analizzando il ruolo e il bilanciamento tra interazioni forti e deboli nel determinare le proprietà finali del sistema. Questo lavoro ha permesso di individuare i fattori chiave che influenzano il trasporto del calore nei materiali compositi, mettendo in relazione microstruttura e proprietà funzionali.
+
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -45,7 +47,7 @@ Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbrica
     Potenziali interazioni interfacciali nei nanocompositi a base di LPSQ.
 </div>
 
-Ho studiato le relazioni tra struttura e proprietà dei materiali attraverso un’ampia attività di caratterizzazione, utilizzando tecniche spettroscopiche, microscopiche, termiche e strutturali. Particolare attenzione è stata dedicata alle interazioni chimiche all’interfaccia tra le diverse componenti dei materiali compositi, analizzando il ruolo e il bilanciamento tra interazioni forti e deboli nel determinare le proprietà finali del sistema. Questo lavoro ha permesso di individuare i fattori chiave che influenzano il trasporto del calore nei materiali compositi, mettendo in relazione microstruttura e proprietà funzionali..
+Nella fase finale del progetto, tali conoscenze sono state applicate allo sviluppo di film polimerici flessibili ad alte prestazioni per il packaging elettronico, con l’obiettivo di coniugare elevata conducibilità termica e buone proprietà meccaniche.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -58,7 +60,3 @@ Ho studiato le relazioni tra struttura e proprietà dei materiali attraverso un�
 <div class="caption">
     Set-up del test termico preliminare (sinistra) con film polimerico (membrana) posizionato tra diodo e heat sink; film ibrido polimerico prodotto (destra).
 </div>
-
-Nella fase finale del progetto, tali conoscenze sono state applicate allo sviluppo di film polimerici flessibili ad alte prestazioni per il packaging elettronico, con l’obiettivo di coniugare elevata conducibilità termica e buone proprietà meccaniche.
-
-
