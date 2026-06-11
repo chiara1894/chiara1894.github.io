@@ -8,11 +8,19 @@ category: progetti
 related_publications: true
 ---
 
-La mia attività di ricerca si è concentrata sullo sviluppo di nanocompositi ibridi inorganici/organici con una maggiore conducibilità termica (TC), con l'obiettivo finale di progettare materiali per la gestione termica elettricamente isolanti e flessibili.
+La mia attività di ricerca si è concentrata sullo sviluppo di nanocompositi ibridi inorganici/organici con una maggiore conducibilità termica (TC), con l'obiettivo finale di progettare materiali per la gestione termica elettricamente isolanti e flessibili. In questo contesto, mi sono occupata dello sviluppo di materiali di interfaccia termica (Thermal Interface Materials, TIM), utilizzati per migliorare il trasferimento di calore tra componenti elettronici e sistemi di dissipazione, riducendo la resistenza termica associata ai microscopici spazi d’aria presenti tra le superfici di contatto.
+
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Graphical abstract.png" title="Infografica" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Infografica sui materiali di interfaccia termica (TIM).
+</div>
 
 Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbricazione e caratterizzazione dei compositi. In particolare, la sintesi sol-gel di polimeri organosiliconici (es: polisilsesquiossani a scala, LPSQ); la funzionalizzazione superficiale di nanoparticelle di allumina (Al2O3); e la fabbricazione di nanocompositi LPSQ/Al2O3 tramite solvent casting e fotopolimerizzazione con raggi UV:
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
