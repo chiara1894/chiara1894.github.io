@@ -34,6 +34,7 @@ Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbrica
 </div>
 <div class="caption">
     Sintesi sol-gel (sinistra); fotopolimerizzazione di nanocompositi (centro); film ibrido inorganico/oraganico (destra).
+</div>
 
 Ho studiato le relazioni tra struttura e proprietà dei materiali attraverso un’ampia attività di caratterizzazione, utilizzando tecniche spettroscopiche, microscopiche, termiche e strutturali. Particolare attenzione è stata dedicata alle interazioni chimiche all’interfaccia tra le diverse componenti dei materiali compositi, analizzando il ruolo e il bilanciamento tra interazioni forti e deboli nel determinare le proprietà finali del sistema. Questo lavoro ha permesso di individuare i fattori chiave che influenzano il trasporto del calore nei materiali compositi, mettendo in relazione microstruttura e proprietà funzionali.
 
