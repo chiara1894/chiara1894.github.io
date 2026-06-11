@@ -19,7 +19,7 @@ La mia attività di ricerca si è concentrata sullo sviluppo di nanocompositi ib
     Infografica sui materiali di interfaccia termica (TIM).
 </div>
 
-Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbricazione e caratterizzazione dei compositi. In particolare, la sintesi sol-gel di polimeri organosiliconici (es: polisilsesquiossani a scala, LPSQ); la funzionalizzazione superficiale di nanoparticelle di allumina (Al2O3); e la fabbricazione di nanocompositi LPSQ/Al2O3 tramite solvent casting e fotopolimerizzazione con raggi UV:
+Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbricazione e caratterizzazione dei compositi. In particolare, la sintesi sol-gel di polimeri organosiliconici (es: polisilsesquiossani a scala, LPSQ); la funzionalizzazione superficiale di nanoparticelle di allumina (Al$_2$O$_3$); e la fabbricazione di nanocompositi LPSQ/Al$_2$O$_3$ tramite solvent casting e fotopolimerizzazione con raggi UV:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
