@@ -38,7 +38,6 @@ Il lavoro ha coperto tutti gli stadi, dalla sintesi dei precursori alla fabbrica
 
 Ho studiato le relazioni tra struttura e proprietà dei materiali attraverso un’ampia attività di caratterizzazione, utilizzando tecniche spettroscopiche, microscopiche, termiche e strutturali. Particolare attenzione è stata dedicata alle interazioni chimiche all’interfaccia tra le diverse componenti dei materiali compositi, analizzando il ruolo e il bilanciamento tra interazioni forti e deboli nel determinare le proprietà finali del sistema. Questo lavoro ha permesso di individuare i fattori chiave che influenzano il trasporto del calore nei materiali compositi, mettendo in relazione microstruttura e proprietà funzionali.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Balance.png" title="Interazioni all'interfaccia" class="img-fluid rounded z-depth-1" %}
@@ -59,5 +58,5 @@ Nella fase finale del progetto, tali conoscenze sono state applicate allo svilup
     </div>
 </div>
 <div class="caption">
-    Set-up del test termico preliminare (sinistra) con film polimerico (membrana) posizionato tra diodo e heat sink; film ibrido polimerico prodotto (destra).
+    Set-up del test termico preliminare (sinistra) con film polimerico (membrana) posizionato tra diodo e heat sink; film ibrido polimerico prodotto (destra) e usato come membrana nel test termico.
 </div>
