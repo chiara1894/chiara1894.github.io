@@ -32,6 +32,7 @@ L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta r
 {% include figure.liquid loading="eager" path="assets/img/Campioni.jpg" title="Campioni sintetizzati" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
     Video di sintesi di AuNBPs (sinistra): a seconda della dimensione le AuNBPs assorbono a diverse lunghezze d'onda, motivo per cui si osservano diversi colori. Variazione di colore della sospensione colloidale all’aumentare (da sinistra verso destra) delle dimensioni delle nanostrutture (foto a destra).
 </div>
 
