@@ -26,10 +26,10 @@ L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta r
 </div>
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
 
 Durante il progetto sono stati ottimizzati diversi protocolli di purificazione per separare le nanobipiramidi dai sottoprodotti di sintesi e sono state ottenute due tipologie di AuNBPs con differenti rapporti di aspetto, in grado di modulare la risposta plasmonica delle particelle. Le nanostrutture sono state caratterizzate mediante spettroscopia UV-Vis, misure di potenziale ζ e microscopie elettroniche FESEM e TEM.
-    
-</div>
+ 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/video/Sintesi_comp.mp4" title="Sintesi AuNBPs" class="img-fluid rounded z-depth-1" %}
