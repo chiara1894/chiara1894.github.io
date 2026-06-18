@@ -24,10 +24,9 @@ L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta r
 
 <div class="row">
     <div class="col-md-8 mt-3 mt-md-0">
-        <video class="img-fluid rounded z-depth-1" controls autoplay muted loop>
-            <source src="assets/video/SINTESI DI AuNBPs.mp4" type="video/mp4">
-            Il tuo browser non supporta il tag video.
-        </video>
+        <video class="img-fluid rounded z-depth-1" controls muted loop>
+    <source src="{{ 'assets/video/Sintesi_AuNBPs.mp4' | relative_url }}" type="video/mp4">
+</video>
     </div>
     <div class="col-md-4 mt-3 mt-md-0">
 {% include figure.liquid loading="eager" path="assets/img/Campioni.jpg" title="Campioni sintetizzati" class="img-fluid rounded z-depth-1" %}
