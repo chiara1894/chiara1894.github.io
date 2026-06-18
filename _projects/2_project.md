@@ -8,10 +8,10 @@ category: progetti
 giscus_comments: true
 ---
 
-Questo progetto di ricerca ha riguardato la sintesi e la caratterizzazione di nanobipiramidi d’oro (AuNBPs), nanostrutture anisotrope dalle peculiari proprietà ottiche, studiate per potenziali applicazioni nei settori della sensoristica e della nanomedicina.
+Questo progetto di ricerca ha riguardato la sintesi e la caratterizzazione di nanobipiramidi d’oro (AuNBPs), nanostrutture anisotrope dalle peculiari proprietà ottiche, studiate per potenziali applicazioni nei settori della sensoristica e della nanomedicina. Grazie alla loro forma allungata e alle estremità appuntite, queste nanostrutture sono in grado di generare un forte potenziamento del campo elettromagnetico locale, caratteristica che le rende particolarmente promettenti per applicazioni di spettroscopia Raman amplificata da superficie (Surface-Enhanced Raman Spectroscopy, SERS), una tecnica impiegata per il rilevamento ultrasensibile di molecole.
 
 
-L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta resa basato su una crescita mediata da semi, finalizzato all’ottenimento di nanobipiramidi idrofile con elevata uniformità dimensionale e morfologica. Grazie alla loro forma allungata e alle estremità appuntite, queste nanostrutture sono in grado di generare un forte potenziamento del campo elettromagnetico locale, caratteristica che le rende particolarmente promettenti per applicazioni di spettroscopia Raman amplificata da superficie (Surface-Enhanced Raman Spectroscopy, SERS), una tecnica impiegata per il rilevamento ultrasensibile di molecole.
+L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta resa basato su una crescita mediata da semi, finalizzato all’ottenimento di nanobipiramidi idrofile con elevata uniformità dimensionale e morfologica. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
