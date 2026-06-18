@@ -1,4 +1,4 @@
-<img width="592" height="897" alt="image" src="https://github.com/user-attachments/assets/4100685f-51ea-4a63-b71e-72ecdaa09b5b" />---
+---
 layout: page
 title: Nanobipiramidi d'oro per applicazioni SERS
 description: Ricerca svolta con NSC lab (Sapienza Università di Roma) e Nanomaterials Research Group (Università di Verona) 
