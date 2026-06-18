@@ -37,20 +37,22 @@ L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta r
 </div>
 
 Durante il progetto sono stati ottimizzati diversi protocolli di purificazione per separare le nanobipiramidi dai sottoprodotti di sintesi e sono state ottenute due tipologie di AuNBPs con differenti rapporti di aspetto, in grado di modulare la risposta plasmonica delle particelle. Le nanostrutture sono state caratterizzate mediante spettroscopia UV-Vis, misure di potenziale ζ e microscopie elettroniche FESEM e TEM.
- 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Sintesi AuNBP.PNG" title="Sintesi AuNBPs" class="img-fluid rounded z-depth-1" %}
     </div>
+</div> 
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BPs.png" title="AuNBPs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/BPs.png" title="AuNBPs" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/BPs allungate.tif" title="AuNBPs allungate" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/BPs allungate.png" title="AuNBPs allungate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Meccanismo di sintesi di AuNBPs a partire dai semi d'oro (sinistra); immagine TEM di AuNBPs (centro); immagine TEM di AuNBPs allungate (destra).
+    Meccanismo di sintesi di AuNBPs a partire dai semi d'oro (sopra); immagine TEM di AuNBPs (sotto a sinistra); immagine TEM di AuNBPs allungate (sotto a destra).
 </div>
 
 Una fase importante del lavoro ha riguardato la sostituzione del tensioattivo citotossico utilizzato durante la sintesi con ligandi tiolici idrofili, al fine di migliorarne la biocompatibilità. Le nanoparticelle funzionalizzate hanno mantenuto stabilità e dispersibilità in ambiente acquoso e sono state successivamente impiegate in esperimenti SERS come piattaforme per il rilevamento molecolare.
