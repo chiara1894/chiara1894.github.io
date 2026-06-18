@@ -23,18 +23,17 @@ Questo progetto di ricerca ha riguardato la sintesi e la caratterizzazione di na
 L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta resa basato su una crescita mediata da semi, finalizzato all’ottenimento di nanobipiramidi idrofile con elevata uniformità dimensionale e morfologica. 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-8 mt-3 mt-md-0">
+        <video class="img-fluid rounded z-depth-1" controls autoplay muted loop>
+            <source src="assets/video/SINTESI DI AuNBPs.mp4" type="video/mp4">
+            Il tuo browser non supporta il tag video.
+        </video>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-4 mt-3 mt-md-0">
+{% include figure.liquid loading="eager" path="assets/img/Campioni.jpg" title="Campioni sintetizzati" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Video di sintesi di AuNBPs (sinistra): a seconda della dimensione le AuNBPs assorbono a diverse lunghezze d'onda, motivo per cui si osservano diversi colori. Variazione di colore della sospensione colloidale all’aumentare (da sinistra verso destra) delle dimensioni delle nanostrutture (foto a destra).
 </div>
 
 Durante il progetto sono stati ottimizzati diversi protocolli di purificazione per separare le nanobipiramidi dai sottoprodotti di sintesi e sono state ottenute due tipologie di AuNBPs con differenti rapporti di aspetto, in grado di modulare la risposta plasmonica delle particelle. Le nanostrutture sono state caratterizzate mediante spettroscopia UV-Vis, misure di potenziale ζ e microscopie elettroniche FESEM e TEM.
