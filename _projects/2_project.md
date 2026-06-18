@@ -41,11 +41,17 @@ Durante il progetto sono stati ottimizzati diversi protocolli di purificazione p
  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/Sintesi_comp.mp4" title="Sintesi AuNBPs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Sintesi AuNBP.PNG" title="Sintesi AuNBPs" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BPs.png" title="AuNBPs" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/BPs allungate.tif" title="AuNBPs allungate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Crescita di AuNBPs da semi d'oro.
+    Meccanismo di sintesi di AuNBPs a partire dai semi d'oro (sinistra); immagine TEM di AuNBPs (centro); immagine TEM di AuNBPs allungate (destra).
 </div>
 
 Una fase importante del lavoro ha riguardato la sostituzione del tensioattivo citotossico utilizzato durante la sintesi con ligandi tiolici idrofili, al fine di migliorarne la biocompatibilità. Le nanoparticelle funzionalizzate hanno mantenuto stabilità e dispersibilità in ambiente acquoso e sono state successivamente impiegate in esperimenti SERS come piattaforme per il rilevamento molecolare.
