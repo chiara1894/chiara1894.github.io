@@ -29,7 +29,7 @@ L’attività si è concentrata sullo sviluppo di un metodo di sintesi ad alta r
 </video>
     </div>
     <div class="col-md-4 mt-3 mt-md-0">
-{% include figure.liquid loading="eager" path="assets/img/Campioni.jpg" title="Campioni sintetizzati" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/Campioni_scaled.jpg" title="Campioni sintetizzati" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
