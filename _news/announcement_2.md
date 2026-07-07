@@ -2,8 +2,8 @@
 layout: post
 title: Collaborazione di ricerca presso Montanuniversität Leoben (Austria)
 date: 2026-01 — 2026-04 16:11:00-0400
-inline: false
-related_posts: false
+inline: true
+related_posts: true
 ---
 
 Entusiasmante periodo di ricerca e scambio di competenze svolto presso l’Istituto di Chimica dei Materiali Polimerici della Montanuniversität Leoben (Austria), collaborando col gruppo del Prof. Thomas Grieβer.
