@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collaborazione di ricerca presso Montanuniversität Leoben (Austria)
-date: 2026-01 — 2026-04 16:11:00-0400
+date: 2026-01-15 16:11:00-0400
 inline: true
 related_posts: true
 ---
