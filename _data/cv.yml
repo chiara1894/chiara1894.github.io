@@ -1,9 +1,8 @@
-cv:
+cv: Curriculum Vitae
   name: Chiara Romeo
   label: Materials Science and Engineering, PhD
   email: chiara1894@gmail.com
   location: Trento
-  image: ""
   summary: Chimica con un PhD in Materials Science and Engineering, appassionata di ricerca applicata e innovazione dei materiali.
 
   social_networks:
@@ -13,7 +12,7 @@ cv:
       username: Chiara Romeo
 
   address:
-    street: VIale Verona 128
+    street: Viale Verona 128
     city: Trento
     region: Trentino-Alto Adige
     postalCode: 38123
@@ -49,7 +48,7 @@ cv:
     Experience:
       - company: Institute of Chemistry of Polymeric Materials, Montanuniversität Leoben
         position: Researcher
-        location: Montanuniversität Leoben, Leoben, Austria
+        location: Leoben, Austria
         start_date: 2026-01-15
         end_date: 2026-04-15
         summary: Development and characterisation of advanced polymeric materials as part of an international collaboration.
@@ -57,9 +56,9 @@ cv:
           - Ge-based photoinitiators.
           - Thermal conductivity of polymer-based nanocomposites.
 
-      - company: Materials and Processes for Micro & Nano Technologies Lab, Dipartimento di Scienza Applicata e Tecnologia (DISAT)
+      - company: Materials and Processes for Micro & Nano Technologies Lab, Dipartimento di Scienza Applicata e Tecnologia (DISAT), Politecnico di Torino
         position: Researcher
-        location: Politecnico di Torino, Torino, Italia
+        location: Torino, Italia
         start_date: 2024
         end_date: 2024
         summary: Study of the behaviour of polymeric materials under irradiation.
@@ -86,7 +85,7 @@ cv:
         summary: "Fluent, C1 (FCE)"
 
     Other Interests:
-      - name:
+      - name: Hobbies
         icon: fa-solid fa-heart
         keywords: "Fuori dal lab, mi potete trovare in cucina a lavorare impasti o su una parete di roccia!"
 
