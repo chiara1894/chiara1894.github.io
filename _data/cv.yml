@@ -84,7 +84,7 @@ cv:
     
     Skills:
       - name: Chemistry and Nanotechnology
-        icon: fa-solid fa-flask-gear
+        icon: fa-solid fa-flask
         keywords: "Inorganic chemistry • Analytical chemistry • Polymer and macromolecular chemistry • Nanotechnology"
 
     Languages:
@@ -96,7 +96,7 @@ cv:
 
     Interests:
       - name: Chemistry and more
-        icon: fa-solid fa-flask-round-potion
+        icon: fa-solid fa-flask
         keywords: "Fuori dal lab, mi potete trovare in cucina a lavorare impasti o su una parete di roccia!"
 
     Certificates:
