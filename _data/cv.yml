@@ -31,6 +31,8 @@ cv:
         score: ""
         doctoral thesis: "Development of hybrid inorganic/organic nanocomposites with enhanced thermal conductivity"
         highlights:
+          - Sol-gel synthesis.
+          - Nanocomposites.
           - https://hdl.handle.net/11572/483871
         
 
@@ -45,42 +47,31 @@ cv:
           - Inorganic chemistry.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Institute of Chemistry of Polymeric Materials, Montanuniversität Leoben
+        position: Researcher
+        location: Montanuniversität Leoben, Leoben, Austria
+        start_date: 2026-01-15
+        end_date: 2026-04-15
+        summary: Development and characterisation of advanced polymeric materials as part of an international collaboration.
         highlights:
-          - Relativity
-          - Description 2.
+          - Ge-based photoinitiators.
+          - Thermal conductivity of polymer-based nanocomposites.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Materials and Processes for Micro & Nano Technologies Lab, Dipartimento di Scienza Applicata e Tecnologia (DISAT)
+        position: Researcher
+        location: Politecnico di Torino, Torino, Italia
+        start_date: 2024
+        end_date: 2024
+        summary: Study of the behaviour of polymeric materials under irradiation.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Photopolymerization.
+          - UV-curable nanocomposites.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Università di Trento, DICAM, DII
+        position: Tutor, co-supervisor
+        location: Trento, Italia
+        start_date: 2023
+        end_date: 2025
     
     Skills:
       - name: Chemistry and Nanotechnology
@@ -94,9 +85,9 @@ cv:
       - name: English
         summary: "Fluent, C1 (FCE)"
 
-    Interests:
-      - name: Chemistry and more
-        icon: fa-solid fa-flask
+    Other Interests:
+      - name:
+        icon: fa-solid fa-heart
         keywords: "Fuori dal lab, mi potete trovare in cucina a lavorare impasti o su una parete di roccia!"
 
     Certificates:
