@@ -1,4 +1,4 @@
-cv: Curriculum Vitae
+cv:
   name: Chiara Romeo
   label: Materials Science and Engineering, PhD
   email: chiara1894@gmail.com
@@ -27,14 +27,12 @@ cv: Curriculum Vitae
         studyType: PhD
         start_date: 2022
         end_date: 2026
-        score: ""
-        doctoral thesis: "Development of hybrid inorganic/organic nanocomposites with enhanced thermal conductivity"
         highlights:
+          - "PhD thesis: Development of hybrid inorganic/organic nanocomposites with enhanced thermal conductivity"
           - Sol-gel synthesis.
           - Nanocomposites.
           - https://hdl.handle.net/11572/483871
         
-
       - institution: Sapienza Università di Roma
         location: Roma, Italia
         area: Chemistry
