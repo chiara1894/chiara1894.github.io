@@ -2,7 +2,6 @@ cv: Curriculum Vitae
   name: Chiara Romeo
   label: Materials Science and Engineering, PhD
   email: chiara1894@gmail.com
-  image: ""
   location: Trento
   summary: Chimica con un PhD in Materials Science and Engineering, appassionata di ricerca applicata e innovazione dei materiali.
 
@@ -85,7 +84,7 @@ cv: Curriculum Vitae
       - name: English
         summary: "Fluent, C1 (FCE)"
 
-    Other Interests:
+    Interests:
       - name: Hobbies
         icon: fa-solid fa-heart
         keywords: "Fuori dal lab, mi potete trovare in cucina a lavorare impasti o su una parete di roccia!"
